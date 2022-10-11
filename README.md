@@ -1,4 +1,4 @@
-# SPK Pemilihan Karyawan Terbaik denganMetode SAW
+# SPK Pemilihan Karyawan Terbaik dengan Metode SAW
 Sistem Pendukung Keputusan pemilihan karyawan terbaik menggunakan metode saw
 
 ### Kebutuhan Fungsional
